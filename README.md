@@ -14,7 +14,7 @@ The project is divided into several components:
 
 4. **Speed Detection**: Automatically calculates vehicle speed based on the length covered by camera angle, frames per second of the recording or camera, and distance covered in terms of pixels in the frame. 
 
-[Video](https://www.youtube.com/watch?v=tJK87SM5LLc&t=274s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tJK87SM5LLc?si=OwizGLkY26OqEQNn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
